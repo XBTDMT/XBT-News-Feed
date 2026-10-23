@@ -1,0 +1,19 @@
+# Build output
+.build/
+.build-public/
+build/
+
+# Swift Package Manager and Xcode
+.swiftpm/
+DerivedData/
+
+# make screenshots output (the app on your own data)
+docs/screenshots-*/
+
+# macOS
+.DS_Store
+
+# Databases and secrets: never commit a copy of the app's data or a key
+*.sqlite*
+.env
+*.key

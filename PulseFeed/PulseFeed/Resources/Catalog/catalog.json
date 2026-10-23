@@ -1,0 +1,5778 @@
+{
+ "sources": [
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 100,
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "Google DeepMind",
+   "topic": "ai",
+   "type": "rss",
+   "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 888,
+   "pollInterval": 3600,
+   "region": "global",
+   "since": 1,
+   "title": "Hugging Face Blog",
+   "topic": "ai",
+   "type": "rss",
+   "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 3600,
+   "region": "global",
+   "since": 1,
+   "title": "Import AI",
+   "topic": "ai",
+   "type": "rss",
+   "url": "https://importai.substack.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 1315,
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "OpenAI News",
+   "topic": "ai",
+   "type": "rss",
+   "url": "https://openai.com/news/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "Simon Willison",
+   "topic": "ai",
+   "type": "rss",
+   "url": "https://simonwillison.net/atom/everything/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "TechCrunch AI",
+   "topic": "ai",
+   "type": "rss",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "The Verge AI",
+   "topic": "ai",
+   "type": "rss",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 370,
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "startsOff": true,
+   "title": "arXiv cs.AI",
+   "topic": "ai",
+   "type": "rss",
+   "url": "https://rss.arxiv.org/rss/cs.AI"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 300,
+   "region": "global",
+   "since": 1,
+   "title": "CoinDesk",
+   "topic": "crypto",
+   "type": "rss",
+   "url": "https://www.coindesk.com/arc/outboundfeeds/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 300,
+   "region": "global",
+   "since": 1,
+   "title": "CoinTelegraph",
+   "topic": "crypto",
+   "type": "rss",
+   "url": "https://cointelegraph.com/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 40,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "Decrypt",
+   "topic": "crypto",
+   "type": "rss",
+   "url": "https://decrypt.co/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 19,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "The Block",
+   "topic": "crypto",
+   "type": "rss",
+   "url": "https://www.theblock.co/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 1,
+   "title": "The Hollywood Reporter",
+   "topic": "tv",
+   "type": "rss",
+   "url": "https://www.hollywoodreporter.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 1,
+   "title": "Variety",
+   "topic": "movies",
+   "type": "rss",
+   "url": "https://variety.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "Autosport F1",
+   "topic": "f1",
+   "type": "rss",
+   "url": "https://www.autosport.com/rss/f1/news/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 65,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 1,
+   "title": "BBC Sport F1",
+   "topic": "f1",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/formula1/rss.xml"
+  },
+  {
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "F1 Results",
+   "topic": "f1",
+   "type": "json_api",
+   "url": "https://api.jolpi.ca/ergast/f1/current/last/results.json"
+  },
+  {
+   "pollInterval": 3600,
+   "region": "global",
+   "since": 1,
+   "title": "F1 Schedule",
+   "topic": "f1",
+   "type": "json_api",
+   "url": "https://api.jolpi.ca/ergast/f1/current.json"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "Motorsport.com F1",
+   "topic": "f1",
+   "type": "rss",
+   "url": "https://www.motorsport.com/rss/f1/news/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "RaceFans",
+   "topic": "f1",
+   "type": "rss",
+   "url": "https://www.racefans.net/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "The Race F1",
+   "topic": "f1",
+   "type": "rss",
+   "url": "https://www.the-race.com/category/formula-1/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "Bloomberg Markets",
+   "topic": "markets",
+   "type": "rss",
+   "url": "https://feeds.bloomberg.com/markets/news.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 1,
+   "title": "CNBC Top News",
+   "topic": "markets",
+   "type": "rss",
+   "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 300,
+   "region": "uk",
+   "since": 1,
+   "title": "FT Markets",
+   "topic": "markets",
+   "type": "rss",
+   "url": "https://www.ft.com/markets?format=rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 1,
+   "title": "MarketWatch",
+   "topic": "markets",
+   "type": "rss",
+   "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "iupana (LatAm fintech)",
+   "topic": "startups",
+   "type": "rss",
+   "url": "https://iupana.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 100,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "Eurogamer",
+   "topic": "gaming",
+   "type": "rss",
+   "url": "https://www.eurogamer.net/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "IGN",
+   "topic": "gaming",
+   "type": "rss",
+   "url": "https://feeds.feedburner.com/ign/all"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 21,
+   "pollInterval": 1800,
+   "region": "us",
+   "since": 1,
+   "title": "NYT Health",
+   "topic": "health",
+   "type": "rss",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 1800,
+   "region": "us",
+   "since": 1,
+   "title": "STAT",
+   "topic": "health",
+   "type": "rss",
+   "url": "https://www.statnews.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "Carscoops",
+   "topic": "cars",
+   "type": "rss",
+   "url": "https://www.carscoops.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 1,
+   "title": "Jalopnik",
+   "topic": "cars",
+   "type": "rss",
+   "url": "https://jalopnik.com/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "Motor1",
+   "topic": "cars",
+   "type": "rss",
+   "url": "https://www.motor1.com/rss/news/all/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "RideApart",
+   "topic": "motorcycles",
+   "type": "rss",
+   "url": "https://www.rideapart.com/rss/news/all/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 1,
+   "title": "Road & Track",
+   "topic": "cars",
+   "type": "rss",
+   "url": "https://www.roadandtrack.com/rss/all.xml/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 1800,
+   "region": "us",
+   "since": 1,
+   "title": "Billboard",
+   "topic": "music",
+   "type": "rss",
+   "url": "https://www.billboard.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 1,
+   "title": "Consequence",
+   "topic": "music",
+   "type": "rss",
+   "url": "https://consequence.net/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 1800,
+   "region": "uk",
+   "since": 1,
+   "title": "DJ Mag",
+   "topic": "music",
+   "type": "rss",
+   "url": "https://djmag.com/feed"
+  },
+  {
+   "itemCount": 80,
+   "pollInterval": 1800,
+   "region": "uk",
+   "since": 1,
+   "title": "Mixmag",
+   "topic": "music",
+   "type": "rss",
+   "url": "https://mixmag.net/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 1,
+   "title": "NME",
+   "topic": "music",
+   "type": "rss",
+   "url": "https://www.nme.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 1,
+   "title": "Pitchfork",
+   "topic": "music",
+   "type": "rss",
+   "url": "https://pitchfork.com/feed/feed-news/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 60,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 1,
+   "title": "BBC Politics",
+   "topic": "politics",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/news/politics/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 1,
+   "title": "Politico",
+   "topic": "politics",
+   "type": "rss",
+   "url": "https://rss.politico.com/politics-news.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "NASA",
+   "topic": "space",
+   "type": "rss",
+   "url": "https://www.nasa.gov/feed/"
+  },
+  {
+   "pollInterval": 3600,
+   "region": "global",
+   "since": 1,
+   "title": "Nature",
+   "topic": "science",
+   "type": "rss",
+   "url": "https://www.nature.com/nature.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 60,
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "ScienceDaily",
+   "topic": "science",
+   "type": "rss",
+   "url": "https://www.sciencedaily.com/rss/top/science.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 69,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 1,
+   "title": "BBC Sport Football",
+   "topic": "soccer",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/football/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "Bloody Elbow",
+   "topic": "ufc",
+   "type": "rss",
+   "url": "https://bloodyelbow.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 17,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "ESPN MMA",
+   "topic": "ufc",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/mma/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 19,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 1,
+   "title": "ESPN NBA",
+   "topic": "nba",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/nba/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 19,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "ESPN Soccer",
+   "topic": "soccer",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/soccer/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 57,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 1,
+   "title": "Guardian Football",
+   "topic": "soccer",
+   "type": "rss",
+   "url": "https://www.theguardian.com/football/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 5,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 1,
+   "title": "Lakers Nation",
+   "topic": "nba",
+   "type": "rss",
+   "url": "https://lakersnation.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "MMA Fighting",
+   "topic": "ufc",
+   "type": "rss",
+   "url": "https://www.mmafighting.com/rss/index.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "MMA Mania",
+   "topic": "ufc",
+   "type": "rss",
+   "url": "https://www.mmamania.com/rss/index.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "Sherdog MMA",
+   "topic": "ufc",
+   "type": "rss",
+   "url": "https://www.sherdog.com/rss/news.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 1,
+   "title": "Silver Screen and Roll",
+   "topic": "nba",
+   "type": "rss",
+   "url": "https://www.silverscreenandroll.com/rss/index.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "UFC.com",
+   "topic": "ufc",
+   "type": "rss",
+   "url": "https://www.ufc.com/rss/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "404 Media",
+   "topic": "tech",
+   "type": "rss",
+   "url": "https://www.404media.co/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 100,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "9to5Mac",
+   "topic": "apple",
+   "type": "rss",
+   "url": "https://9to5mac.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 300,
+   "region": "global",
+   "since": 1,
+   "title": "Ars Technica",
+   "topic": "tech",
+   "type": "rss",
+   "url": "https://feeds.arstechnica.com/arstechnica/index"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "Engadget",
+   "topic": "tech",
+   "type": "rss",
+   "url": "https://www.engadget.com/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "Gizmodo",
+   "topic": "tech",
+   "type": "rss",
+   "url": "https://gizmodo.com/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "Hacker News",
+   "topic": "tech",
+   "type": "rss",
+   "url": "https://news.ycombinator.com/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 1,
+   "title": "MacRumors",
+   "topic": "apple",
+   "type": "rss",
+   "url": "https://feeds.macrumors.com/MacRumors-All"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 300,
+   "region": "global",
+   "since": 1,
+   "title": "TechCrunch",
+   "topic": "tech",
+   "type": "rss",
+   "url": "https://techcrunch.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 300,
+   "region": "global",
+   "since": 1,
+   "title": "The Verge",
+   "topic": "tech",
+   "type": "rss",
+   "url": "https://www.theverge.com/rss/index.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 1,
+   "title": "Wired",
+   "topic": "tech",
+   "type": "rss",
+   "url": "https://www.wired.com/feed/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "One Mile at a Time",
+   "topic": "travel",
+   "type": "rss",
+   "url": "https://onemileatatime.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "Skift",
+   "topic": "travel",
+   "type": "rss",
+   "url": "https://skift.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 1800,
+   "region": "us",
+   "since": 1,
+   "title": "The Points Guy",
+   "topic": "travel",
+   "type": "rss",
+   "url": "https://thepointsguy.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 300,
+   "region": "global",
+   "since": 1,
+   "title": "Al Jazeera",
+   "topic": "world",
+   "type": "rss",
+   "url": "https://www.aljazeera.com/xml/rss/all.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 39,
+   "pollInterval": 300,
+   "region": "uk",
+   "since": 1,
+   "title": "BBC World",
+   "topic": "world",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 135,
+   "pollInterval": 600,
+   "region": "eu",
+   "since": 1,
+   "title": "DW News",
+   "topic": "world",
+   "type": "rss",
+   "url": "https://rss.dw.com/xml/rss-en-all"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 1,
+   "title": "France 24 Americas",
+   "topic": "world",
+   "type": "rss",
+   "url": "https://www.france24.com/en/americas/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 300,
+   "region": "us",
+   "since": 1,
+   "title": "NPR News",
+   "topic": "world",
+   "type": "rss",
+   "url": "https://feeds.npr.org/1001/rss.xml"
+  },
+  {
+   "pollInterval": 1800,
+   "region": "global",
+   "since": 1,
+   "title": "Rest of World",
+   "topic": "world",
+   "type": "rss",
+   "url": "https://restofworld.org/feed/latest/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 45,
+   "pollInterval": 300,
+   "region": "uk",
+   "since": 1,
+   "title": "The Guardian",
+   "topic": "world",
+   "type": "rss",
+   "url": "https://www.theguardian.com/world/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "NPR — Politics",
+   "topic": "politics",
+   "type": "rss",
+   "url": "https://feeds.npr.org/1014/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 21,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Politics",
+   "topic": "politics",
+   "type": "rss",
+   "url": "https://www.theguardian.com/politics/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "The Hill — News",
+   "topic": "politics",
+   "type": "rss",
+   "url": "https://thehill.com/homenews/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 2,
+   "title": "Politico Europe",
+   "topic": "politics",
+   "type": "rss",
+   "url": "https://www.politico.eu/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Nasdaq — Markets",
+   "topic": "markets",
+   "type": "rss",
+   "url": "https://www.nasdaq.com/feed/rssoutbound?category=Markets"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 19,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "TechCrunch — Startups",
+   "topic": "startups",
+   "type": "rss",
+   "url": "https://techcrunch.com/category/startups/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "TechCrunch — Fintech",
+   "topic": "startups",
+   "type": "rss",
+   "url": "https://techcrunch.com/category/fintech/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 53,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Finextra — Headlines",
+   "topic": "startups",
+   "type": "rss",
+   "url": "https://www.finextra.com/rss/headlines.aspx"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Crunchbase News",
+   "topic": "startups",
+   "type": "rss",
+   "url": "https://news.crunchbase.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 24,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 2,
+   "title": "Sifted",
+   "topic": "startups",
+   "type": "rss",
+   "url": "https://sifted.eu/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Bitcoin Magazine",
+   "topic": "crypto",
+   "type": "rss",
+   "url": "https://bitcoinmagazine.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "NPR — National",
+   "topic": "us-news",
+   "type": "rss",
+   "url": "https://feeds.npr.org/1003/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 32,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "The New York Times — U.S.",
+   "topic": "us-news",
+   "type": "rss",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CBS News — U.S.",
+   "topic": "us-news",
+   "type": "rss",
+   "url": "https://www.cbsnews.com/latest/rss/us"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "NBC News — Top stories",
+   "topic": "us-news",
+   "type": "rss",
+   "url": "https://feeds.nbcnews.com/nbcnews/public/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Fox News — U.S.",
+   "topic": "us-news",
+   "type": "rss",
+   "url": "https://moxie.foxnews.com/google-publisher/us.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 33,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — US news",
+   "topic": "us-news",
+   "type": "rss",
+   "url": "https://www.theguardian.com/us-news/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 33,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC News — UK",
+   "topic": "uk-news",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/news/uk/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 45,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — UK news",
+   "topic": "uk-news",
+   "type": "rss",
+   "url": "https://www.theguardian.com/uk-news/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 8,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "Sky News — UK",
+   "topic": "uk-news",
+   "type": "rss",
+   "url": "https://feeds.skynews.com/feeds/rss/uk.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "inews — News",
+   "topic": "uk-news",
+   "type": "rss",
+   "url": "https://inews.co.uk/news/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 18,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "Evening Standard — UK",
+   "topic": "uk-news",
+   "type": "rss",
+   "url": "https://www.standard.co.uk/news/uk/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 23,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC News — Europe",
+   "topic": "europe",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Europe",
+   "topic": "europe",
+   "type": "rss",
+   "url": "https://www.theguardian.com/world/europe-news/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "The New York Times — Europe",
+   "topic": "europe",
+   "type": "rss",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "eu",
+   "since": 2,
+   "title": "Euronews — News",
+   "topic": "europe",
+   "type": "rss",
+   "url": "https://www.euronews.com/rss?level=theme&name=news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 2,
+   "title": "France 24 — Europe",
+   "topic": "europe",
+   "type": "rss",
+   "url": "https://www.france24.com/en/europe/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 17,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC News — Asia",
+   "topic": "asia",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "The New York Times — Asia Pacific",
+   "topic": "asia",
+   "type": "rss",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "asia",
+   "since": 2,
+   "title": "South China Morning Post — Asia",
+   "topic": "asia",
+   "type": "rss",
+   "url": "https://www.scmp.com/rss/3/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "asia",
+   "since": 2,
+   "title": "CNA — Asia",
+   "topic": "asia",
+   "type": "rss",
+   "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "asia",
+   "since": 2,
+   "title": "The Japan Times",
+   "topic": "asia",
+   "type": "rss",
+   "url": "https://www.japantimes.co.jp/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 60,
+   "pollInterval": 900,
+   "region": "asia",
+   "since": 2,
+   "title": "The Hindu — International",
+   "topic": "asia",
+   "type": "rss",
+   "url": "https://www.thehindu.com/news/international/feeder/default.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 57,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC News — Business",
+   "topic": "business",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 40,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Business",
+   "topic": "business",
+   "type": "rss",
+   "url": "https://www.theguardian.com/uk/business/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 49,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "The New York Times — Business",
+   "topic": "business",
+   "type": "rss",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CNBC — Business",
+   "topic": "business",
+   "type": "rss",
+   "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "NPR — Business",
+   "topic": "business",
+   "type": "rss",
+   "url": "https://feeds.npr.org/1006/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Fortune",
+   "topic": "business",
+   "type": "rss",
+   "url": "https://fortune.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 34,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Environment",
+   "topic": "climate",
+   "type": "rss",
+   "url": "https://www.theguardian.com/environment/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Inside Climate News",
+   "topic": "climate",
+   "type": "rss",
+   "url": "https://insideclimatenews.org/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Grist",
+   "topic": "climate",
+   "type": "rss",
+   "url": "https://grist.org/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 12,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Carbon Brief",
+   "topic": "climate",
+   "type": "rss",
+   "url": "https://www.carbonbrief.org/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 33,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "The New York Times — Climate",
+   "topic": "climate",
+   "type": "rss",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 100,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Yale Environment 360",
+   "topic": "climate",
+   "type": "rss",
+   "url": "https://e360.yale.edu/feed.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "NerdWallet",
+   "topic": "personal-finance",
+   "type": "rss",
+   "url": "https://www.nerdwallet.com/blog/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Kiplinger",
+   "topic": "personal-finance",
+   "type": "rss",
+   "url": "https://www.kiplinger.com/feeds.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "CNBC — Personal finance",
+   "topic": "personal-finance",
+   "type": "rss",
+   "url": "https://www.cnbc.com/id/21324812/device/rss/rss.html"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Money",
+   "topic": "personal-finance",
+   "type": "rss",
+   "url": "https://www.theguardian.com/money/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 150,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "This is Money",
+   "topic": "personal-finance",
+   "type": "rss",
+   "url": "https://www.thisismoney.co.uk/money/index.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Money",
+   "topic": "personal-finance",
+   "type": "rss",
+   "url": "https://money.com/money/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "HousingWire",
+   "topic": "real-estate",
+   "type": "rss",
+   "url": "https://www.housingwire.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Property",
+   "topic": "real-estate",
+   "type": "rss",
+   "url": "https://www.theguardian.com/money/property/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Curbed",
+   "topic": "real-estate",
+   "type": "rss",
+   "url": "https://www.curbed.com/feeds/full-content.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Realtor.com — News",
+   "topic": "real-estate",
+   "type": "rss",
+   "url": "https://www.realtor.com/news/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "CNBC — Real estate",
+   "topic": "real-estate",
+   "type": "rss",
+   "url": "https://www.cnbc.com/id/10000115/device/rss/rss.html"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Property Industry Eye",
+   "topic": "real-estate",
+   "type": "rss",
+   "url": "https://propertyindustryeye.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "CNBC — Economy",
+   "topic": "economy",
+   "type": "rss",
+   "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Economics",
+   "topic": "economy",
+   "type": "rss",
+   "url": "https://www.theguardian.com/business/economics/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "The New York Times — Economy",
+   "topic": "economy",
+   "type": "rss",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Federal Reserve — Press releases",
+   "topic": "economy",
+   "type": "rss",
+   "url": "https://www.federalreserve.gov/feeds/press_all.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 2,
+   "title": "European Central Bank — Press",
+   "topic": "economy",
+   "type": "rss",
+   "url": "https://www.ecb.europa.eu/rss/press.html"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Bank of England — News",
+   "topic": "economy",
+   "type": "rss",
+   "url": "https://www.bankofengland.co.uk/rss/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "AppleInsider",
+   "topic": "apple",
+   "type": "rss",
+   "url": "https://appleinsider.com/rss/news/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 75,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Six Colors",
+   "topic": "apple",
+   "type": "rss",
+   "url": "https://sixcolors.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 48,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Daring Fireball",
+   "topic": "apple",
+   "type": "rss",
+   "url": "https://daringfireball.net/feeds/main"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Apple Newsroom",
+   "topic": "apple",
+   "type": "rss",
+   "url": "https://www.apple.com/newsroom/rss-feed.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "New Scientist",
+   "topic": "science",
+   "type": "rss",
+   "url": "https://www.newscientist.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Science News",
+   "topic": "science",
+   "type": "rss",
+   "url": "https://www.sciencenews.org/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 5,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Quanta Magazine",
+   "topic": "science",
+   "type": "rss",
+   "url": "https://www.quantamagazine.org/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "Phys.org",
+   "topic": "science",
+   "type": "rss",
+   "url": "https://phys.org/rss-feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "Space.com",
+   "topic": "space",
+   "type": "rss",
+   "url": "https://www.space.com/feeds.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 14,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "SpaceNews",
+   "topic": "space",
+   "type": "rss",
+   "url": "https://spacenews.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Spaceflight Now",
+   "topic": "space",
+   "type": "rss",
+   "url": "https://spaceflightnow.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 9,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 2,
+   "title": "ESA Space News",
+   "topic": "space",
+   "type": "rss",
+   "url": "https://www.esa.int/rssfeed/Our_Activities/Space_News"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "NASASpaceflight",
+   "topic": "space",
+   "type": "rss",
+   "url": "https://www.nasaspaceflight.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 55,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Health",
+   "topic": "health",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/news/health/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "KFF Health News",
+   "topic": "health",
+   "type": "rss",
+   "url": "https://kffhealthnews.org/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "NPR Health",
+   "topic": "health",
+   "type": "rss",
+   "url": "https://feeds.npr.org/1128/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian Health",
+   "topic": "health",
+   "type": "rss",
+   "url": "https://www.theguardian.com/society/health/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 12,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Deadline",
+   "topic": "movies",
+   "type": "rss",
+   "url": "https://deadline.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 12,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "IndieWire",
+   "topic": "movies",
+   "type": "rss",
+   "url": "https://www.indiewire.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "/Film",
+   "topic": "movies",
+   "type": "rss",
+   "url": "https://www.slashfilm.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Collider",
+   "topic": "movies",
+   "type": "rss",
+   "url": "https://collider.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 29,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian Film",
+   "topic": "movies",
+   "type": "rss",
+   "url": "https://www.theguardian.com/film/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "TVLine",
+   "topic": "tv",
+   "type": "rss",
+   "url": "https://www.tvline.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Decider",
+   "topic": "tv",
+   "type": "rss",
+   "url": "https://decider.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian TV & Radio",
+   "topic": "tv",
+   "type": "rss",
+   "url": "https://www.theguardian.com/tv-and-radio/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Polygon",
+   "topic": "gaming",
+   "type": "rss",
+   "url": "https://www.polygon.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Kotaku",
+   "topic": "gaming",
+   "type": "rss",
+   "url": "https://kotaku.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "PC Gamer",
+   "topic": "gaming",
+   "type": "rss",
+   "url": "https://www.pcgamer.com/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "GameSpot",
+   "topic": "gaming",
+   "type": "rss",
+   "url": "https://www.gamespot.com/feeds/news/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "TechRadar",
+   "topic": "gadgets",
+   "type": "rss",
+   "url": "https://www.techradar.com/feeds.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Tom's Guide",
+   "topic": "gadgets",
+   "type": "rss",
+   "url": "https://www.tomsguide.com/feeds.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "GSMArena",
+   "topic": "gadgets",
+   "type": "rss",
+   "url": "https://www.gsmarena.com/rss-news-reviews.php3"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 80,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "Android Authority",
+   "topic": "gadgets",
+   "type": "rss",
+   "url": "https://www.androidauthority.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 100,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "9to5Google",
+   "topic": "gadgets",
+   "type": "rss",
+   "url": "https://9to5google.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CNET",
+   "topic": "gadgets",
+   "type": "rss",
+   "url": "https://www.cnet.com/rss/news/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "The GitHub Blog",
+   "topic": "programming",
+   "type": "rss",
+   "url": "https://github.blog/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "InfoQ",
+   "topic": "programming",
+   "type": "rss",
+   "url": "https://feed.infoq.com/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 40,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Stack Overflow Blog",
+   "topic": "programming",
+   "type": "rss",
+   "url": "https://stackoverflow.blog/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 26,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "The New Stack",
+   "topic": "programming",
+   "type": "rss",
+   "url": "https://thenewstack.io/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "LWN.net",
+   "topic": "programming",
+   "type": "rss",
+   "url": "https://lwn.net/headlines/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 40,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Smashing Magazine",
+   "topic": "programming",
+   "type": "rss",
+   "url": "https://www.smashingmagazine.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Krebs on Security",
+   "topic": "security",
+   "type": "rss",
+   "url": "https://krebsonsecurity.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "BleepingComputer",
+   "topic": "security",
+   "type": "rss",
+   "url": "https://www.bleepingcomputer.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "The Hacker News",
+   "topic": "security",
+   "type": "rss",
+   "url": "https://feeds.feedburner.com/TheHackersNews"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Dark Reading",
+   "topic": "security",
+   "type": "rss",
+   "url": "https://www.darkreading.com/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "SecurityWeek",
+   "topic": "security",
+   "type": "rss",
+   "url": "https://www.securityweek.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 5,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "The Record",
+   "topic": "security",
+   "type": "rss",
+   "url": "https://therecord.media/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Runner's World",
+   "topic": "fitness",
+   "type": "rss",
+   "url": "https://www.runnersworld.com/rss/all.xml/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Men's Health",
+   "topic": "fitness",
+   "type": "rss",
+   "url": "https://www.menshealth.com/rss/all.xml/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Women's Health",
+   "topic": "fitness",
+   "type": "rss",
+   "url": "https://www.womenshealthmag.com/rss/all.xml/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Muscle & Fitness",
+   "topic": "fitness",
+   "type": "rss",
+   "url": "https://www.muscleandfitness.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Bicycling",
+   "topic": "fitness",
+   "type": "rss",
+   "url": "https://www.bicycling.com/rss/all.xml/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Outside",
+   "topic": "fitness",
+   "type": "rss",
+   "url": "https://www.outsideonline.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 28,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian Books",
+   "topic": "books",
+   "type": "rss",
+   "url": "https://www.theguardian.com/books/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Literary Hub",
+   "topic": "books",
+   "type": "rss",
+   "url": "https://lithub.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Book Riot",
+   "topic": "books",
+   "type": "rss",
+   "url": "https://bookriot.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "NPR Books",
+   "topic": "books",
+   "type": "rss",
+   "url": "https://feeds.npr.org/1032/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 38,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "NYT Books",
+   "topic": "books",
+   "type": "rss",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/Books.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 149,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "Anime News Network",
+   "topic": "anime",
+   "type": "rss",
+   "url": "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=w"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Crunchyroll News",
+   "topic": "anime",
+   "type": "rss",
+   "url": "https://cr-news-api-service.prd.crunchyrollsvc.com/v1/en-US/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Anime Corner",
+   "topic": "anime",
+   "type": "rss",
+   "url": "https://animecorner.me/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "MyAnimeList News",
+   "topic": "anime",
+   "type": "rss",
+   "url": "https://myanimelist.net/rss/news.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Anime Herald",
+   "topic": "anime",
+   "type": "rss",
+   "url": "https://animeherald.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "E! News",
+   "topic": "celebrity",
+   "type": "rss",
+   "url": "https://eol-feeds.eonline.com/rssfeed/us/top_stories"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Page Six",
+   "topic": "celebrity",
+   "type": "rss",
+   "url": "https://pagesix.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Just Jared",
+   "topic": "celebrity",
+   "type": "rss",
+   "url": "https://www.justjared.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Us Weekly",
+   "topic": "celebrity",
+   "type": "rss",
+   "url": "https://www.usmagazine.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Dezeen",
+   "topic": "art-design",
+   "type": "rss",
+   "url": "https://www.dezeen.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Colossal",
+   "topic": "art-design",
+   "type": "rss",
+   "url": "https://www.thisiscolossal.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Hyperallergic",
+   "topic": "art-design",
+   "type": "rss",
+   "url": "https://hyperallergic.com/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "ARTnews",
+   "topic": "art-design",
+   "type": "rss",
+   "url": "https://www.artnews.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 2,
+   "title": "designboom",
+   "topic": "art-design",
+   "type": "rss",
+   "url": "https://www.designboom.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 61,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "The Art Newspaper",
+   "topic": "art-design",
+   "type": "rss",
+   "url": "https://www.theartnewspaper.com/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Vogue",
+   "topic": "fashion",
+   "type": "rss",
+   "url": "https://www.vogue.com/feed/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "WWD",
+   "topic": "fashion",
+   "type": "rss",
+   "url": "https://wwd.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Fashionista",
+   "topic": "fashion",
+   "type": "rss",
+   "url": "https://fashionista.com/.rss/full/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "Hypebeast",
+   "topic": "fashion",
+   "type": "rss",
+   "url": "https://hypebeast.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Highsnobiety",
+   "topic": "fashion",
+   "type": "rss",
+   "url": "https://www.highsnobiety.com/feeds/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 33,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian Fashion",
+   "topic": "fashion",
+   "type": "rss",
+   "url": "https://www.theguardian.com/fashion/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 151,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Podnews",
+   "topic": "podcasts",
+   "type": "rss",
+   "url": "https://podnews.net/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 12,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Deadline Podcasts",
+   "topic": "podcasts",
+   "type": "rss",
+   "url": "https://deadline.com/tag/podcasts/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "The Hollywood Reporter Podcasts",
+   "topic": "podcasts",
+   "type": "rss",
+   "url": "https://www.hollywoodreporter.com/t/podcasts/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 18,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "TechCrunch Podcasts",
+   "topic": "podcasts",
+   "type": "rss",
+   "url": "https://techcrunch.com/tag/podcasts/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian Podcasting",
+   "topic": "podcasts",
+   "type": "rss",
+   "url": "https://www.theguardian.com/media/podcasting/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Podcast Review",
+   "topic": "podcasts",
+   "type": "rss",
+   "url": "https://podcastreview.org/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 36,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CBS Sports — NBA",
+   "topic": "nba",
+   "type": "rss",
+   "url": "https://www.cbssports.com/rss/headlines/nba/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Yahoo Sports — NBA",
+   "topic": "nba",
+   "type": "rss",
+   "url": "https://sports.yahoo.com/nba/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — NBA",
+   "topic": "nba",
+   "type": "rss",
+   "url": "https://www.theguardian.com/sport/nba/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "Sky Sports — Football",
+   "topic": "soccer",
+   "type": "rss",
+   "url": "https://www.skysports.com/rss/11095"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 36,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CBS Sports — Soccer",
+   "topic": "soccer",
+   "type": "rss",
+   "url": "https://www.cbssports.com/rss/headlines/soccer/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "FourFourTwo — Latest",
+   "topic": "soccer",
+   "type": "rss",
+   "url": "https://www.fourfourtwo.com/feeds.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 22,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Travel",
+   "topic": "travel",
+   "type": "rss",
+   "url": "https://www.theguardian.com/uk/travel/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Condé Nast Traveler — Latest",
+   "topic": "travel",
+   "type": "rss",
+   "url": "https://www.cntraveler.com/feed/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Simple Flying — Aviation",
+   "topic": "travel",
+   "type": "rss",
+   "url": "https://simpleflying.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 142,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "MCN — News",
+   "topic": "motorcycles",
+   "type": "rss",
+   "url": "https://www.motorcyclenews.com/api/rssfeed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Rider Magazine — Latest",
+   "topic": "motorcycles",
+   "type": "rss",
+   "url": "https://ridermagazine.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Motorcycle Daily — News",
+   "topic": "motorcycles",
+   "type": "rss",
+   "url": "https://www.motorcycledaily.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Adventure Bike Rider — Latest",
+   "topic": "motorcycles",
+   "type": "rss",
+   "url": "https://www.adventurebikerider.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "ADV Pulse — Adventure motorcycling",
+   "topic": "motorcycles",
+   "type": "rss",
+   "url": "https://www.advpulse.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 12,
+   "pollInterval": 900,
+   "region": "asia",
+   "since": 2,
+   "title": "BikesRepublic — Motorcycle news",
+   "topic": "motorcycles",
+   "type": "rss",
+   "url": "https://www.bikesrepublic.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 29,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "ESPN — NFL",
+   "topic": "nfl",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/nfl/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 36,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CBS Sports — NFL",
+   "topic": "nfl",
+   "type": "rss",
+   "url": "https://www.cbssports.com/rss/headlines/nfl/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "NBC Sports — ProFootballTalk",
+   "topic": "nfl",
+   "type": "rss",
+   "url": "https://www.nbcsports.com/profootballtalk.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Yahoo Sports — NFL",
+   "topic": "nfl",
+   "type": "rss",
+   "url": "https://sports.yahoo.com/nfl/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — NFL",
+   "topic": "nfl",
+   "type": "rss",
+   "url": "https://www.theguardian.com/sport/nfl/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "ESPN — MLB",
+   "topic": "mlb",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/mlb/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "MLB.com — News",
+   "topic": "mlb",
+   "type": "rss",
+   "url": "https://www.mlb.com/feeds/news/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 36,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CBS Sports — MLB",
+   "topic": "mlb",
+   "type": "rss",
+   "url": "https://www.cbssports.com/rss/headlines/mlb/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "MLB Trade Rumors — Latest",
+   "topic": "mlb",
+   "type": "rss",
+   "url": "https://www.mlbtraderumors.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — MLB",
+   "topic": "mlb",
+   "type": "rss",
+   "url": "https://www.theguardian.com/sport/mlb/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "ESPN — NHL",
+   "topic": "nhl",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/nhl/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 36,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CBS Sports — NHL",
+   "topic": "nhl",
+   "type": "rss",
+   "url": "https://www.cbssports.com/rss/headlines/nhl/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Yahoo Sports — NHL",
+   "topic": "nhl",
+   "type": "rss",
+   "url": "https://sports.yahoo.com/nhl/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 48,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Sportsnet — NHL",
+   "topic": "nhl",
+   "type": "rss",
+   "url": "https://www.sportsnet.ca/hockey/nhl/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Daily Faceoff — NHL news",
+   "topic": "nhl",
+   "type": "rss",
+   "url": "https://www.dailyfaceoff.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — NHL",
+   "topic": "nhl",
+   "type": "rss",
+   "url": "https://www.theguardian.com/sport/nhl/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 42,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Sport — Premier League",
+   "topic": "premier-league",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/football/premier-league/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Premier League",
+   "topic": "premier-league",
+   "type": "rss",
+   "url": "https://www.theguardian.com/football/premierleague/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "Sky Sports — Premier League",
+   "topic": "premier-league",
+   "type": "rss",
+   "url": "https://www.skysports.com/rss/11661"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 6,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "NBC Sports — Premier League",
+   "topic": "premier-league",
+   "type": "rss",
+   "url": "https://www.nbcsports.com/soccer/premier-league.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — La Liga",
+   "topic": "la-liga",
+   "type": "rss",
+   "url": "https://www.theguardian.com/football/laligafootball/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 2,
+   "title": "Football España — La Liga news",
+   "topic": "la-liga",
+   "type": "rss",
+   "url": "https://www.football-espana.net/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Managing Madrid (SB Nation) — Real Madrid",
+   "topic": "la-liga",
+   "type": "rss",
+   "url": "https://www.managingmadrid.com/rss/index.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Barca Blaugranes (SB Nation) — Barcelona",
+   "topic": "la-liga",
+   "type": "rss",
+   "url": "https://www.barcablaugranes.com/rss/index.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Sport — Champions League",
+   "topic": "champions-league",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/football/champions-league/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Champions League",
+   "topic": "champions-league",
+   "type": "rss",
+   "url": "https://www.theguardian.com/football/championsleague/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "Sky Sports — Champions League",
+   "topic": "champions-league",
+   "type": "rss",
+   "url": "https://www.skysports.com/rss/11945"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "FourFourTwo — Champions League",
+   "topic": "champions-league",
+   "type": "rss",
+   "url": "https://www.fourfourtwo.com/feeds/tag/champions-league"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — MLS",
+   "topic": "mls",
+   "type": "rss",
+   "url": "https://www.theguardian.com/football/mls/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Yahoo Sports — MLS",
+   "topic": "mls",
+   "type": "rss",
+   "url": "https://sports.yahoo.com/soccer/mls/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Backheeled — American soccer",
+   "topic": "mls",
+   "type": "rss",
+   "url": "https://www.backheeled.com/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Soccer America — News",
+   "topic": "mls",
+   "type": "rss",
+   "url": "https://www.socceramerica.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 90,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "MLS Multiplex (FanSided) — MLS",
+   "topic": "mls",
+   "type": "rss",
+   "url": "https://mlsmultiplex.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "Motorsport.com — MotoGP",
+   "topic": "motogp",
+   "type": "rss",
+   "url": "https://www.motorsport.com/rss/motogp/news/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "Autosport — MotoGP",
+   "topic": "motogp",
+   "type": "rss",
+   "url": "https://www.autosport.com/rss/motogp/news/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "Crash.net — MotoGP",
+   "topic": "motogp",
+   "type": "rss",
+   "url": "https://www.crash.net/rss/motogp"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 15,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Race — MotoGP",
+   "topic": "motogp",
+   "type": "rss",
+   "url": "https://www.the-race.com/category/motogp/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 2,
+   "title": "GPOne — MotoGP (English)",
+   "topic": "motogp",
+   "type": "rss",
+   "url": "https://www.gpone.com/en/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 54,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Sport — Tennis",
+   "topic": "tennis",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/tennis/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Tennis",
+   "topic": "tennis",
+   "type": "rss",
+   "url": "https://www.theguardian.com/sport/tennis/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "Sky Sports — Tennis",
+   "topic": "tennis",
+   "type": "rss",
+   "url": "https://www.skysports.com/rss/12110"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "ESPN — Tennis",
+   "topic": "tennis",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/tennis/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Yahoo Sports — Tennis",
+   "topic": "tennis",
+   "type": "rss",
+   "url": "https://sports.yahoo.com/tennis/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 28,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Sport — Golf",
+   "topic": "golf",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/golf/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Golf",
+   "topic": "golf",
+   "type": "rss",
+   "url": "https://www.theguardian.com/sport/golf/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "Sky Sports — Golf",
+   "topic": "golf",
+   "type": "rss",
+   "url": "https://www.skysports.com/rss/12176"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 24,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "ESPN — Golf",
+   "topic": "golf",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/golf/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 36,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CBS Sports — Golf",
+   "topic": "golf",
+   "type": "rss",
+   "url": "https://www.cbssports.com/rss/headlines/golf/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Golf Monthly — Latest",
+   "topic": "golf",
+   "type": "rss",
+   "url": "https://www.golfmonthly.com/feeds.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 29,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Sport — Cricket",
+   "topic": "cricket",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/cricket/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Cricket",
+   "topic": "cricket",
+   "type": "rss",
+   "url": "https://www.theguardian.com/sport/cricket/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 100,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "ESPNcricinfo — News",
+   "topic": "cricket",
+   "type": "rss",
+   "url": "https://www.cricinfo.com/rss/content/story/feeds/0.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 100,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Wisden — Cricket news",
+   "topic": "cricket",
+   "type": "rss",
+   "url": "https://www.wisden.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 600,
+   "region": "asia",
+   "since": 2,
+   "title": "Times of India — Cricket",
+   "topic": "cricket",
+   "type": "rss",
+   "url": "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 60,
+   "pollInterval": 900,
+   "region": "asia",
+   "since": 2,
+   "title": "The Hindu — Cricket",
+   "topic": "cricket",
+   "type": "rss",
+   "url": "https://www.thehindu.com/sport/cricket/feeder/default.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 52,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Sport — Rugby Union",
+   "topic": "rugby",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/rugby-union/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Rugby Union",
+   "topic": "rugby",
+   "type": "rss",
+   "url": "https://www.theguardian.com/sport/rugby-union/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 17,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Planet Rugby — News",
+   "topic": "rugby",
+   "type": "rss",
+   "url": "https://www.planetrugby.com/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Rugby World — Latest",
+   "topic": "rugby",
+   "type": "rss",
+   "url": "https://www.rugbyworld.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Americas Rugby News — Latest",
+   "topic": "rugby",
+   "type": "rss",
+   "url": "https://www.americasrugbynews.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 36,
+   "pollInterval": 600,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Sport — Rugby League",
+   "topic": "rugby",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/rugby-league/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "Cyclingnews — Latest",
+   "topic": "cycling",
+   "type": "rss",
+   "url": "https://www.cyclingnews.com/feeds.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Cycling",
+   "topic": "cycling",
+   "type": "rss",
+   "url": "https://www.theguardian.com/sport/cycling/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 21,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Sport — Cycling",
+   "topic": "cycling",
+   "type": "rss",
+   "url": "https://feeds.bbci.co.uk/sport/cycling/rss.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Cycling Weekly — Latest",
+   "topic": "cycling",
+   "type": "rss",
+   "url": "https://www.cyclingweekly.com/feeds.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 25,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Velo — Cycling news",
+   "topic": "cycling",
+   "type": "rss",
+   "url": "https://velo.outsideonline.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Bikerumor — Bike tech",
+   "topic": "cycling",
+   "type": "rss",
+   "url": "https://bikerumor.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 21,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "ESPN — College Football",
+   "topic": "college-sports",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/ncf/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 22,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "ESPN — Men's College Basketball",
+   "topic": "college-sports",
+   "type": "rss",
+   "url": "https://www.espn.com/espn/rss/ncb/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 36,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CBS Sports — College Football",
+   "topic": "college-sports",
+   "type": "rss",
+   "url": "https://www.cbssports.com/rss/headlines/college-football/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 36,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "CBS Sports — College Basketball",
+   "topic": "college-sports",
+   "type": "rss",
+   "url": "https://www.cbssports.com/rss/headlines/college-basketball/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "Yahoo Sports — College Football",
+   "topic": "college-sports",
+   "type": "rss",
+   "url": "https://sports.yahoo.com/college-football/rss/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 600,
+   "region": "us",
+   "since": 2,
+   "title": "On3 — College sports",
+   "topic": "college-sports",
+   "type": "rss",
+   "url": "https://www.on3.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 600,
+   "region": "global",
+   "since": 2,
+   "title": "Dexerto — Esports",
+   "topic": "esports",
+   "type": "rss",
+   "url": "https://www.dexerto.com/feed/category/esports/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Esports Insider — News",
+   "topic": "esports",
+   "type": "rss",
+   "url": "https://esportsinsider.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 600,
+   "region": "eu",
+   "since": 2,
+   "title": "HLTV — Counter-Strike news",
+   "topic": "esports",
+   "type": "rss",
+   "url": "https://www.hltv.org/rss/news"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "VLR.gg — Valorant esports",
+   "topic": "esports",
+   "type": "rss",
+   "url": "https://www.vlr.gg/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "eu",
+   "since": 2,
+   "title": "Esports.net — News",
+   "topic": "esports",
+   "type": "rss",
+   "url": "https://www.esports.net/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Bon Appétit — Latest",
+   "topic": "food-drink",
+   "type": "rss",
+   "url": "https://www.bonappetit.com/feed/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Eater — Latest",
+   "topic": "food-drink",
+   "type": "rss",
+   "url": "https://www.eater.com/rss/index.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "The Kitchn — Latest",
+   "topic": "food-drink",
+   "type": "rss",
+   "url": "https://www.thekitchn.com/main.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 29,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Food",
+   "topic": "food-drink",
+   "type": "rss",
+   "url": "https://www.theguardian.com/food/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "BBC Good Food — Latest",
+   "topic": "food-drink",
+   "type": "rss",
+   "url": "https://www.bbcgoodfood.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 55,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "VinePair — Drinks",
+   "topic": "food-drink",
+   "type": "rss",
+   "url": "https://vinepair.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "King Arthur Baking — Blog",
+   "topic": "baking",
+   "type": "rss",
+   "url": "https://www.kingarthurbaking.com/blog/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Baking",
+   "topic": "baking",
+   "type": "rss",
+   "url": "https://www.theguardian.com/food/baking/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "The Fresh Loaf — Bread baking community",
+   "topic": "baking",
+   "type": "rss",
+   "url": "https://www.thefreshloaf.com/node/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Baking Business — Industry news",
+   "topic": "baking",
+   "type": "rss",
+   "url": "https://www.bakingbusiness.com/rss/articles"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 30,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Family Handyman — Latest",
+   "topic": "home-diy",
+   "type": "rss",
+   "url": "https://www.familyhandyman.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 46,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Bob Vila — Latest",
+   "topic": "home-diy",
+   "type": "rss",
+   "url": "https://www.bobvila.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Apartment Therapy — Latest",
+   "topic": "home-diy",
+   "type": "rss",
+   "url": "https://www.apartmenttherapy.com/main.rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Homes",
+   "topic": "home-diy",
+   "type": "rss",
+   "url": "https://www.theguardian.com/lifeandstyle/homes/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "Ideal Home — Latest",
+   "topic": "home-diy",
+   "type": "rss",
+   "url": "https://www.idealhome.co.uk/feeds.xml"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Make: — DIY projects",
+   "topic": "home-diy",
+   "type": "rss",
+   "url": "https://makezine.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Backpacker — Latest",
+   "topic": "outdoors",
+   "type": "rss",
+   "url": "https://www.backpacker.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 12,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Climbing — Latest",
+   "topic": "outdoors",
+   "type": "rss",
+   "url": "https://www.climbing.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Outdoor Life — Latest",
+   "topic": "outdoors",
+   "type": "rss",
+   "url": "https://www.outdoorlife.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 63,
+   "pollInterval": 900,
+   "region": "global",
+   "since": 2,
+   "title": "Explorersweb — Expeditions",
+   "topic": "outdoors",
+   "type": "rss",
+   "url": "https://explorersweb.com/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Walking",
+   "topic": "outdoors",
+   "type": "rss",
+   "url": "https://www.theguardian.com/lifeandstyle/walking/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Parents and parenting",
+   "topic": "parenting",
+   "type": "rss",
+   "url": "https://www.theguardian.com/lifeandstyle/parents-and-parenting/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Romper — Latest",
+   "topic": "parenting",
+   "type": "rss",
+   "url": "https://www.romper.com/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Fatherly — Latest",
+   "topic": "parenting",
+   "type": "rss",
+   "url": "https://www.fatherly.com/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 50,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Scary Mommy — Latest",
+   "topic": "parenting",
+   "type": "rss",
+   "url": "https://www.scarymommy.com/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Motherly — Latest",
+   "topic": "parenting",
+   "type": "rss",
+   "url": "https://mother.ly/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 20,
+   "pollInterval": 900,
+   "region": "uk",
+   "since": 2,
+   "title": "The Guardian — Pets",
+   "topic": "pets",
+   "type": "rss",
+   "url": "https://www.theguardian.com/lifeandstyle/pets/rss"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "American Kennel Club — Expert advice",
+   "topic": "pets",
+   "type": "rss",
+   "url": "https://www.akc.org/expert-advice/feed/"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "DogTime — Latest",
+   "topic": "pets",
+   "type": "rss",
+   "url": "https://dogtime.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "CatTime — Latest",
+   "topic": "pets",
+   "type": "rss",
+   "url": "https://cattime.com/feed"
+  },
+  {
+   "checkedAt": "2026-10-22 21:28:37",
+   "itemCount": 10,
+   "pollInterval": 900,
+   "region": "us",
+   "since": 2,
+   "title": "Cats.com — Latest",
+   "topic": "pets",
+   "type": "rss",
+   "url": "https://cats.com/feed"
+  },
+  {
+   "pollInterval": 900,
+   "provider": "balldontlie",
+   "region": "us",
+   "since": 5,
+   "title": "NBA live scores",
+   "topic": "nba",
+   "type": "json_api",
+   "url": "https://api.balldontlie.io/v1/games"
+  }
+ ],
+ "topics": [
+  {
+   "aliases": [
+    "international",
+    "global news"
+   ],
+   "category": "world",
+   "follows": [],
+   "group": "news",
+   "id": "world",
+   "label": "World",
+   "regions": [
+    "global",
+    "us",
+    "uk",
+    "eu"
+   ]
+  },
+  {
+   "aliases": [
+    "government",
+    "elections",
+    "westminster",
+    "washington",
+    "policy"
+   ],
+   "category": "politics",
+   "follows": [],
+   "group": "news",
+   "id": "politics",
+   "label": "Politics",
+   "regions": [
+    "us",
+    "uk"
+   ]
+  },
+  {
+   "aliases": [
+    "stocks",
+    "stock market",
+    "wall street",
+    "investing",
+    "shares",
+    "equities",
+    "s&p 500",
+    "nasdaq",
+    "dow"
+   ],
+   "category": "finance",
+   "follows": [
+    "nvidia",
+    "apple",
+    "tesla",
+    "microsoft",
+    "s&p 500"
+   ],
+   "group": "money",
+   "id": "markets",
+   "label": "Markets",
+   "regions": [
+    "global",
+    "us",
+    "uk"
+   ]
+  },
+  {
+   "aliases": [
+    "fintech",
+    "venture capital",
+    "vc",
+    "funding rounds",
+    "unicorns",
+    "seed round"
+   ],
+   "category": "finance",
+   "follows": [],
+   "group": "money",
+   "id": "startups",
+   "label": "Startups & fintech",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "cryptocurrency",
+    "web3",
+    "defi",
+    "bitcoin",
+    "btc",
+    "ethereum",
+    "stablecoins",
+    "eth"
+   ],
+   "category": "crypto",
+   "follows": [
+    "bitcoin",
+    "ethereum",
+    "solana",
+    "xrp",
+    "coinbase",
+    "binance"
+   ],
+   "group": "money",
+   "id": "crypto",
+   "label": "Crypto",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "technology",
+    "silicon valley",
+    "tech news",
+    "big tech"
+   ],
+   "category": "tech",
+   "follows": [
+    "apple",
+    "google",
+    "microsoft",
+    "meta",
+    "amazon",
+    "nvidia"
+   ],
+   "group": "techScience",
+   "id": "tech",
+   "label": "Tech",
+   "regions": [
+    "global",
+    "us"
+   ]
+  },
+  {
+   "aliases": [
+    "iphone",
+    "mac",
+    "ios",
+    "ipad",
+    "macos",
+    "apple watch",
+    "vision pro"
+   ],
+   "category": "tech",
+   "follows": [
+    "iphone",
+    "mac",
+    "vision pro",
+    "tim cook",
+    "wwdc",
+    "apple intelligence"
+   ],
+   "group": "techScience",
+   "id": "apple",
+   "label": "Apple",
+   "regions": [
+    "global"
+   ],
+   "everydayFollows": [
+    "mac"
+   ]
+  },
+  {
+   "aliases": [
+    "artificial intelligence",
+    "machine learning",
+    "llm",
+    "llms",
+    "chatgpt",
+    "genai"
+   ],
+   "category": "ai",
+   "follows": [
+    "openai",
+    "anthropic",
+    "google deepmind",
+    "meta ai",
+    "mistral",
+    "nvidia"
+   ],
+   "group": "techScience",
+   "id": "ai",
+   "label": "AI",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "research",
+    "physics",
+    "biology",
+    "chemistry",
+    "climate science"
+   ],
+   "category": "science",
+   "follows": [],
+   "group": "techScience",
+   "id": "science",
+   "label": "Science",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "nasa",
+    "spaceflight",
+    "astronomy",
+    "rockets",
+    "spacex",
+    "mars",
+    "moon"
+   ],
+   "category": "science",
+   "follows": [
+    "nasa",
+    "spacex",
+    "blue origin",
+    "artemis",
+    "starship",
+    "esa",
+    "jwst"
+   ],
+   "group": "techScience",
+   "id": "space",
+   "label": "Space",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "medicine",
+    "wellness",
+    "public health",
+    "healthcare",
+    "nutrition"
+   ],
+   "category": "health",
+   "follows": [
+    "fda",
+    "world health organization",
+    "cdc",
+    "ozempic"
+   ],
+   "group": "techScience",
+   "id": "health",
+   "label": "Health",
+   "regions": [
+    "us",
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "basketball",
+    "pro basketball",
+    "national basketball association",
+    "hoops",
+    "nba playoffs"
+   ],
+   "category": "sports",
+   "follows": [
+    "lakers",
+    "celtics",
+    "warriors",
+    "knicks",
+    "bucks",
+    "nuggets",
+    "76ers",
+    "heat",
+    "mavericks",
+    "thunder",
+    "lebron",
+    "luka"
+   ],
+   "group": "sports",
+   "id": "nba",
+   "label": "NBA",
+   "regions": [
+    "us"
+   ],
+   "followForms": {
+    "lakers": [
+     "los angeles lakers",
+     "la lakers"
+    ],
+    "celtics": [
+     "boston celtics"
+    ],
+    "warriors": [
+     "golden state warriors",
+     "golden state"
+    ],
+    "knicks": [
+     "new york knicks"
+    ],
+    "bucks": [
+     "milwaukee bucks"
+    ],
+    "nuggets": [
+     "denver nuggets"
+    ],
+    "76ers": [
+     "philadelphia 76ers",
+     "sixers"
+    ],
+    "heat": [
+     "miami heat"
+    ],
+    "mavericks": [
+     "dallas mavericks",
+     "mavs"
+    ],
+    "thunder": [
+     "oklahoma city thunder",
+     "okc thunder"
+    ],
+    "lebron": [
+     "lebron james"
+    ],
+    "luka": [
+     "luka doncic",
+     "doncic"
+    ]
+   },
+   "everydayFollows": [
+    "heat",
+    "thunder",
+    "warriors",
+    "bucks",
+    "nuggets"
+   ]
+  },
+  {
+   "aliases": [
+    "football",
+    "soccer",
+    "football (soccer)",
+    "world football",
+    "fifa",
+    "world cup"
+   ],
+   "category": "sports",
+   "follows": [
+    "arsenal",
+    "manchester united",
+    "liverpool",
+    "real madrid",
+    "barcelona",
+    "manchester city"
+   ],
+   "group": "sports",
+   "id": "soccer",
+   "label": "Football (soccer)",
+   "regions": [
+    "uk",
+    "global"
+   ],
+   "followForms": {
+    "arsenal": [
+     "arsenal fc"
+    ],
+    "liverpool": [
+     "liverpool fc"
+    ],
+    "manchester united": [
+     "man united",
+     "man utd"
+    ],
+    "manchester city": [
+     "man city"
+    ]
+   }
+  },
+  {
+   "aliases": [
+    "mma",
+    "mixed martial arts",
+    "ufc",
+    "cage fighting",
+    "octagon"
+   ],
+   "category": "sports",
+   "follows": [],
+   "group": "sports",
+   "id": "ufc",
+   "label": "UFC & MMA",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "f1",
+    "formula one",
+    "grand prix",
+    "f1 racing"
+   ],
+   "category": "f1",
+   "follows": [
+    "verstappen",
+    "hamilton",
+    "norris",
+    "leclerc",
+    "ferrari",
+    "mclaren",
+    "red bull racing",
+    "mercedes"
+   ],
+   "group": "sports",
+   "id": "f1",
+   "label": "Formula 1",
+   "regions": [
+    "global",
+    "uk"
+   ],
+   "followForms": {
+    "verstappen": [
+     "max verstappen"
+    ],
+    "hamilton": [
+     "lewis hamilton"
+    ],
+    "norris": [
+     "lando norris"
+    ],
+    "leclerc": [
+     "charles leclerc"
+    ],
+    "ferrari": [
+     "scuderia ferrari"
+    ],
+    "red bull racing": [
+     "red bull"
+    ],
+    "mercedes": [
+     "mercedes f1",
+     "mercedes-amg"
+    ]
+   },
+   "everydayFollows": [
+    "mercedes"
+   ]
+  },
+  {
+   "aliases": [
+    "concerts",
+    "albums"
+   ],
+   "category": "music",
+   "follows": [],
+   "group": "culture",
+   "id": "music",
+   "label": "Music",
+   "regions": [
+    "global",
+    "us",
+    "uk"
+   ]
+  },
+  {
+   "aliases": [
+    "film",
+    "films",
+    "cinema",
+    "hollywood",
+    "box office",
+    "trailers"
+   ],
+   "category": "entertainment",
+   "follows": [
+    "marvel",
+    "pixar",
+    "a24",
+    "oscars",
+    "christopher nolan"
+   ],
+   "group": "culture",
+   "id": "movies",
+   "label": "Movies",
+   "regions": [
+    "us"
+   ]
+  },
+  {
+   "aliases": [
+    "television",
+    "streaming",
+    "tv shows",
+    "series",
+    "netflix"
+   ],
+   "category": "entertainment",
+   "follows": [
+    "netflix",
+    "hbo",
+    "disney+",
+    "emmys",
+    "apple tv"
+   ],
+   "group": "culture",
+   "id": "tv",
+   "label": "TV",
+   "regions": [
+    "us"
+   ]
+  },
+  {
+   "aliases": [
+    "video games",
+    "games",
+    "esports",
+    "consoles",
+    "pc gaming"
+   ],
+   "category": "gaming",
+   "follows": [
+    "nintendo",
+    "playstation",
+    "xbox",
+    "steam deck",
+    "gta vi",
+    "switch 2"
+   ],
+   "group": "culture",
+   "id": "gaming",
+   "label": "Gaming",
+   "regions": [
+    "global"
+   ],
+   "followForms": {
+    "nintendo": [
+     "nintendo switch"
+    ]
+   }
+  },
+  {
+   "aliases": [
+    "points and miles",
+    "airlines",
+    "flights",
+    "hotels"
+   ],
+   "category": "travel",
+   "follows": [],
+   "group": "life",
+   "id": "travel",
+   "label": "Travel",
+   "regions": [
+    "global",
+    "us"
+   ]
+  },
+  {
+   "aliases": [
+    "cars",
+    "autos",
+    "supercars",
+    "automotive",
+    "car news",
+    "evs"
+   ],
+   "category": "motors",
+   "follows": [
+    "porsche",
+    "ferrari",
+    "tesla",
+    "bmw"
+   ],
+   "group": "life",
+   "id": "cars",
+   "label": "Cars",
+   "regions": [
+    "global",
+    "us"
+   ],
+   "followForms": {
+    "porsche": [
+     "porsche 911"
+    ]
+   }
+  },
+  {
+   "aliases": [
+    "motorbikes",
+    "bikes",
+    "motorcycling",
+    "superbikes"
+   ],
+   "category": "motors",
+   "follows": [
+    "ducati",
+    "harley-davidson",
+    "kawasaki"
+   ],
+   "group": "life",
+   "id": "motorcycles",
+   "label": "Motorcycles",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "us",
+    "usa",
+    "america",
+    "united states",
+    "national",
+    "us news",
+    "american news"
+   ],
+   "category": "world",
+   "follows": [
+    "white house",
+    "congress",
+    "supreme court",
+    "fbi",
+    "pentagon"
+   ],
+   "group": "news",
+   "id": "us-news",
+   "label": "US",
+   "regions": [
+    "us"
+   ]
+  },
+  {
+   "aliases": [
+    "uk",
+    "britain",
+    "united kingdom",
+    "england",
+    "scotland",
+    "wales",
+    "british news"
+   ],
+   "category": "world",
+   "follows": [
+    "downing street",
+    "parliament",
+    "nhs",
+    "bank of england",
+    "met police"
+   ],
+   "group": "news",
+   "id": "uk-news",
+   "label": "UK",
+   "regions": [
+    "uk"
+   ]
+  },
+  {
+   "aliases": [
+    "europe",
+    "eu",
+    "european",
+    "european union",
+    "ukraine",
+    "france",
+    "germany"
+   ],
+   "category": "world",
+   "follows": [
+    "european commission",
+    "european parliament",
+    "nato",
+    "zelensky",
+    "macron",
+    "merz"
+   ],
+   "group": "news",
+   "id": "europe",
+   "label": "Europe",
+   "regions": [
+    "eu",
+    "uk",
+    "us"
+   ]
+  },
+  {
+   "aliases": [
+    "asia",
+    "asia pacific",
+    "china",
+    "japan",
+    "india",
+    "korea",
+    "southeast asia"
+   ],
+   "category": "world",
+   "follows": [
+    "xi jinping",
+    "modi",
+    "asean",
+    "taiwan",
+    "north korea",
+    "hong kong"
+   ],
+   "group": "news",
+   "id": "asia",
+   "label": "Asia",
+   "regions": [
+    "asia",
+    "uk",
+    "us"
+   ]
+  },
+  {
+   "aliases": [
+    "business",
+    "companies",
+    "corporate",
+    "earnings",
+    "industry",
+    "ceo",
+    "mergers"
+   ],
+   "category": "finance",
+   "follows": [
+    "apple",
+    "amazon",
+    "tesla",
+    "nvidia",
+    "microsoft",
+    "berkshire hathaway"
+   ],
+   "group": "news",
+   "id": "business",
+   "label": "Business",
+   "regions": [
+    "us",
+    "uk"
+   ]
+  },
+  {
+   "aliases": [
+    "climate",
+    "environment",
+    "climate change",
+    "global warming",
+    "emissions",
+    "renewables",
+    "clean energy"
+   ],
+   "category": "science",
+   "follows": [
+    "ipcc",
+    "cop30",
+    "unfccc",
+    "epa",
+    "greenpeace"
+   ],
+   "group": "news",
+   "id": "climate",
+   "label": "Climate",
+   "regions": [
+    "us",
+    "uk",
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "personal finance",
+    "money",
+    "savings",
+    "budgeting",
+    "mortgages",
+    "credit cards",
+    "retirement",
+    "taxes"
+   ],
+   "category": "finance",
+   "follows": [
+    "irs",
+    "isa",
+    "401k",
+    "social security",
+    "hmrc"
+   ],
+   "group": "money",
+   "id": "personal-finance",
+   "label": "Personal finance",
+   "regions": [
+    "us",
+    "uk"
+   ]
+  },
+  {
+   "aliases": [
+    "real estate",
+    "housing",
+    "property",
+    "homes",
+    "mortgage rates",
+    "housing market",
+    "commercial real estate"
+   ],
+   "category": "finance",
+   "follows": [
+    "zillow",
+    "redfin",
+    "fannie mae",
+    "freddie mac",
+    "rightmove",
+    "nar"
+   ],
+   "group": "money",
+   "id": "real-estate",
+   "label": "Real estate",
+   "regions": [
+    "us",
+    "uk"
+   ]
+  },
+  {
+   "aliases": [
+    "economy",
+    "economics",
+    "inflation",
+    "interest rates",
+    "gdp",
+    "jobs report",
+    "recession",
+    "central banks"
+   ],
+   "category": "finance",
+   "follows": [
+    "federal reserve",
+    "ecb",
+    "bank of england",
+    "imf",
+    "powell",
+    "lagarde",
+    "bls",
+    "bank of japan"
+   ],
+   "group": "money",
+   "id": "economy",
+   "label": "Economy",
+   "regions": [
+    "us",
+    "uk",
+    "eu",
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "gadgets",
+    "gear",
+    "devices",
+    "smartphones",
+    "phones",
+    "wearables",
+    "consumer electronics",
+    "reviews"
+   ],
+   "category": "tech",
+   "follows": [
+    "samsung",
+    "google pixel",
+    "iphone",
+    "samsung galaxy",
+    "oneplus",
+    "sony",
+    "garmin",
+    "dji",
+    "xiaomi",
+    "nothing phone"
+   ],
+   "group": "techScience",
+   "id": "gadgets",
+   "label": "Gadgets",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "programming",
+    "coding",
+    "software development",
+    "developers",
+    "dev",
+    "software engineering",
+    "open source"
+   ],
+   "category": "tech",
+   "follows": [
+    "github",
+    "python",
+    "javascript",
+    "typescript",
+    "linux",
+    "kubernetes"
+   ],
+   "group": "techScience",
+   "id": "programming",
+   "label": "Programming",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "security",
+    "cybersecurity",
+    "infosec",
+    "hacking",
+    "data breach",
+    "ransomware",
+    "malware",
+    "privacy"
+   ],
+   "category": "tech",
+   "follows": [
+    "crowdstrike",
+    "palo alto networks",
+    "cisa",
+    "microsoft defender",
+    "okta",
+    "mandiant",
+    "lockbit"
+   ],
+   "group": "techScience",
+   "id": "security",
+   "label": "Security",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "fitness",
+    "workout",
+    "exercise",
+    "running",
+    "training",
+    "gym",
+    "cycling",
+    "strength training"
+   ],
+   "category": "health",
+   "follows": [
+    "peloton",
+    "strava",
+    "whoop",
+    "garmin",
+    "nike",
+    "hyrox",
+    "marathon"
+   ],
+   "group": "techScience",
+   "id": "fitness",
+   "label": "Fitness",
+   "regions": [
+    "us",
+    "global"
+   ],
+   "everydayFollows": [
+    "marathon"
+   ]
+  },
+  {
+   "aliases": [
+    "books",
+    "reading",
+    "literature",
+    "novels",
+    "fiction",
+    "publishing",
+    "authors",
+    "book reviews"
+   ],
+   "category": "entertainment",
+   "follows": [
+    "booker prize",
+    "pulitzer",
+    "nobel prize in literature",
+    "stephen king",
+    "sally rooney",
+    "penguin random house",
+    "goodreads"
+   ],
+   "group": "culture",
+   "id": "books",
+   "label": "Books",
+   "regions": [
+    "us",
+    "uk"
+   ]
+  },
+  {
+   "aliases": [
+    "anime",
+    "manga",
+    "japanese animation",
+    "otaku",
+    "light novels"
+   ],
+   "category": "entertainment",
+   "follows": [
+    "crunchyroll",
+    "studio ghibli",
+    "one piece",
+    "jujutsu kaisen",
+    "demon slayer",
+    "shonen jump",
+    "mappa",
+    "chainsaw man"
+   ],
+   "group": "culture",
+   "id": "anime",
+   "label": "Anime",
+   "regions": [
+    "global",
+    "asia"
+   ]
+  },
+  {
+   "aliases": [
+    "celebrity",
+    "celebrities",
+    "celeb news",
+    "gossip",
+    "stars",
+    "hollywood gossip",
+    "red carpet"
+   ],
+   "category": "entertainment",
+   "follows": [
+    "taylor swift",
+    "kardashian",
+    "beyonce",
+    "selena gomez",
+    "royal family",
+    "travis kelce"
+   ],
+   "group": "culture",
+   "id": "celebrity",
+   "label": "Celebrity",
+   "regions": [
+    "us"
+   ]
+  },
+  {
+   "aliases": [
+    "art",
+    "design",
+    "architecture",
+    "art & design",
+    "art and design",
+    "contemporary art",
+    "museums",
+    "graphic design"
+   ],
+   "category": "entertainment",
+   "follows": [
+    "moma",
+    "tate",
+    "venice biennale",
+    "art basel",
+    "christie's",
+    "sotheby's",
+    "ikea",
+    "pritzker prize"
+   ],
+   "group": "culture",
+   "id": "art-design",
+   "label": "Art & design",
+   "regions": [
+    "global"
+   ],
+   "everydayFollows": [
+    "tate"
+   ]
+  },
+  {
+   "aliases": [
+    "fashion",
+    "style",
+    "streetwear",
+    "runway",
+    "fashion week",
+    "luxury",
+    "sneakers"
+   ],
+   "category": "entertainment",
+   "follows": [
+    "gucci",
+    "chanel",
+    "louis vuitton",
+    "prada",
+    "nike",
+    "balenciaga",
+    "met gala"
+   ],
+   "group": "culture",
+   "id": "fashion",
+   "label": "Fashion",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "podcasts",
+    "podcasting",
+    "podcast industry",
+    "podcast news",
+    "audio",
+    "video podcasts"
+   ],
+   "category": "entertainment",
+   "follows": [
+    "spotify",
+    "apple podcasts",
+    "joe rogan",
+    "youtube podcasts",
+    "siriusxm",
+    "iheartmedia",
+    "acast",
+    "the new york times audio"
+   ],
+   "group": "culture",
+   "id": "podcasts",
+   "label": "Podcasts",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "american football",
+    "national football league",
+    "pro football",
+    "gridiron",
+    "super bowl"
+   ],
+   "category": "sports",
+   "follows": [
+    "chiefs",
+    "eagles",
+    "bills",
+    "ravens",
+    "49ers",
+    "cowboys",
+    "lions",
+    "packers",
+    "patrick mahomes",
+    "josh allen",
+    "lamar jackson",
+    "super bowl"
+   ],
+   "group": "sports",
+   "id": "nfl",
+   "label": "NFL",
+   "regions": [
+    "us"
+   ],
+   "followForms": {
+    "chiefs": [
+     "kansas city chiefs"
+    ],
+    "eagles": [
+     "philadelphia eagles"
+    ],
+    "bills": [
+     "buffalo bills"
+    ],
+    "ravens": [
+     "baltimore ravens"
+    ],
+    "49ers": [
+     "san francisco 49ers",
+     "niners"
+    ],
+    "cowboys": [
+     "dallas cowboys"
+    ],
+    "lions": [
+     "detroit lions"
+    ],
+    "packers": [
+     "green bay packers"
+    ],
+    "patrick mahomes": [
+     "mahomes"
+    ]
+   },
+   "everydayFollows": [
+    "chiefs",
+    "eagles",
+    "bills",
+    "ravens",
+    "lions",
+    "packers"
+   ]
+  },
+  {
+   "aliases": [
+    "baseball",
+    "major league baseball",
+    "world series",
+    "mlb playoffs"
+   ],
+   "category": "sports",
+   "follows": [
+    "dodgers",
+    "yankees",
+    "mets",
+    "braves",
+    "astros",
+    "phillies",
+    "red sox",
+    "cubs",
+    "shohei ohtani",
+    "aaron judge",
+    "world series"
+   ],
+   "group": "sports",
+   "id": "mlb",
+   "label": "MLB",
+   "regions": [
+    "us"
+   ],
+   "followForms": {
+    "dodgers": [
+     "los angeles dodgers"
+    ],
+    "yankees": [
+     "new york yankees"
+    ],
+    "mets": [
+     "new york mets"
+    ],
+    "braves": [
+     "atlanta braves"
+    ],
+    "astros": [
+     "houston astros"
+    ],
+    "phillies": [
+     "philadelphia phillies"
+    ],
+    "red sox": [
+     "boston red sox"
+    ],
+    "cubs": [
+     "chicago cubs"
+    ],
+    "shohei ohtani": [
+     "ohtani"
+    ],
+    "aaron judge": []
+   },
+   "everydayFollows": [
+    "braves",
+    "cubs"
+   ]
+  },
+  {
+   "aliases": [
+    "hockey",
+    "ice hockey",
+    "national hockey league",
+    "stanley cup"
+   ],
+   "category": "sports",
+   "follows": [
+    "maple leafs",
+    "oilers",
+    "rangers",
+    "bruins",
+    "panthers",
+    "avalanche",
+    "connor mcdavid",
+    "auston matthews",
+    "sidney crosby",
+    "stanley cup"
+   ],
+   "group": "sports",
+   "id": "nhl",
+   "label": "NHL",
+   "regions": [
+    "us"
+   ],
+   "followForms": {
+    "maple leafs": [
+     "toronto maple leafs",
+     "leafs"
+    ],
+    "oilers": [
+     "edmonton oilers"
+    ],
+    "rangers": [
+     "new york rangers"
+    ],
+    "bruins": [
+     "boston bruins"
+    ],
+    "panthers": [
+     "florida panthers"
+    ],
+    "avalanche": [
+     "colorado avalanche"
+    ],
+    "connor mcdavid": [
+     "mcdavid"
+    ],
+    "sidney crosby": [
+     "crosby"
+    ]
+   },
+   "everydayFollows": [
+    "rangers",
+    "panthers",
+    "avalanche",
+    "oilers"
+   ]
+  },
+  {
+   "aliases": [
+    "epl",
+    "english premier league",
+    "prem",
+    "premiership football"
+   ],
+   "category": "sports",
+   "follows": [
+    "arsenal",
+    "liverpool",
+    "manchester city",
+    "manchester united",
+    "chelsea",
+    "tottenham",
+    "newcastle",
+    "aston villa",
+    "erling haaland",
+    "mohamed salah",
+    "bukayo saka"
+   ],
+   "group": "sports",
+   "id": "premier-league",
+   "label": "Premier League",
+   "regions": [
+    "uk",
+    "global"
+   ],
+   "followForms": {
+    "arsenal": [
+     "arsenal fc"
+    ],
+    "chelsea": [
+     "chelsea fc"
+    ],
+    "tottenham": [
+     "tottenham hotspur"
+    ],
+    "newcastle": [
+     "newcastle united"
+    ],
+    "liverpool": [
+     "liverpool fc"
+    ],
+    "mohamed salah": [
+     "salah"
+    ],
+    "erling haaland": [
+     "haaland"
+    ],
+    "bukayo saka": [
+     "saka"
+    ],
+    "manchester united": [
+     "man united",
+     "man utd"
+    ],
+    "manchester city": [
+     "man city"
+    ]
+   },
+   "everydayFollows": [
+    "newcastle"
+   ]
+  },
+  {
+   "aliases": [
+    "laliga",
+    "spanish football",
+    "primera division",
+    "spanish league",
+    "el clasico"
+   ],
+   "category": "sports",
+   "follows": [
+    "real madrid",
+    "barcelona",
+    "atletico madrid",
+    "athletic club",
+    "villarreal",
+    "real sociedad",
+    "kylian mbappe",
+    "lamine yamal",
+    "vinicius",
+    "el clasico"
+   ],
+   "group": "sports",
+   "id": "la-liga",
+   "label": "La Liga",
+   "regions": [
+    "eu",
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "ucl",
+    "uefa champions league",
+    "european cup",
+    "champions league football"
+   ],
+   "category": "sports",
+   "follows": [
+    "real madrid",
+    "manchester city",
+    "bayern munich",
+    "psg",
+    "arsenal",
+    "barcelona",
+    "inter milan",
+    "liverpool",
+    "champions league final"
+   ],
+   "group": "sports",
+   "id": "champions-league",
+   "label": "Champions League",
+   "regions": [
+    "eu",
+    "uk",
+    "global"
+   ],
+   "followForms": {
+    "manchester city": [
+     "man city"
+    ]
+   }
+  },
+  {
+   "aliases": [
+    "major league soccer",
+    "us soccer",
+    "american soccer",
+    "mls cup"
+   ],
+   "category": "sports",
+   "follows": [
+    "inter miami",
+    "la galaxy",
+    "lafc",
+    "seattle sounders",
+    "columbus crew",
+    "atlanta united",
+    "fc cincinnati",
+    "lionel messi",
+    "mls cup",
+    "usmnt"
+   ],
+   "group": "sports",
+   "id": "mls",
+   "label": "MLS",
+   "regions": [
+    "us"
+   ],
+   "followForms": {
+    "lionel messi": [
+     "messi"
+    ],
+    "inter miami": [
+     "inter miami cf"
+    ]
+   }
+  },
+  {
+   "aliases": [
+    "moto gp",
+    "motorcycle grand prix",
+    "grand prix motorcycle racing",
+    "moto2",
+    "moto3"
+   ],
+   "category": "f1",
+   "follows": [
+    "marc marquez",
+    "francesco bagnaia",
+    "jorge martin",
+    "pedro acosta",
+    "alex marquez",
+    "ducati",
+    "aprilia",
+    "ktm",
+    "honda hrc",
+    "yamaha"
+   ],
+   "group": "sports",
+   "id": "motogp",
+   "label": "MotoGP",
+   "regions": [
+    "global",
+    "eu"
+   ]
+  },
+  {
+   "aliases": [
+    "atp",
+    "wta",
+    "grand slam tennis",
+    "tennis tour"
+   ],
+   "category": "sports",
+   "follows": [
+    "wimbledon",
+    "us open",
+    "roland garros",
+    "australian open",
+    "jannik sinner",
+    "carlos alcaraz",
+    "novak djokovic",
+    "aryna sabalenka",
+    "iga swiatek",
+    "coco gauff"
+   ],
+   "group": "sports",
+   "id": "tennis",
+   "label": "Tennis",
+   "regions": [
+    "global"
+   ],
+   "followForms": {
+    "jannik sinner": [
+     "sinner"
+    ],
+    "carlos alcaraz": [
+     "alcaraz"
+    ],
+    "novak djokovic": [
+     "djokovic"
+    ]
+   }
+  },
+  {
+   "aliases": [
+    "pga tour",
+    "pga",
+    "liv golf",
+    "dp world tour",
+    "lpga",
+    "major championship golf"
+   ],
+   "category": "sports",
+   "follows": [
+    "masters",
+    "the open",
+    "ryder cup",
+    "us open golf",
+    "pga championship",
+    "scottie scheffler",
+    "rory mcilroy",
+    "jon rahm",
+    "tiger woods",
+    "nelly korda"
+   ],
+   "group": "sports",
+   "id": "golf",
+   "label": "Golf",
+   "regions": [
+    "global"
+   ],
+   "followForms": {
+    "masters": [
+     "the masters",
+     "masters tournament"
+    ],
+    "tiger woods": [
+     "tiger"
+    ],
+    "rory mcilroy": [
+     "mcilroy"
+    ],
+    "scottie scheffler": [
+     "scheffler"
+    ]
+   },
+   "everydayFollows": [
+    "masters"
+   ]
+  },
+  {
+   "aliases": [
+    "test cricket",
+    "odi",
+    "t20",
+    "ipl",
+    "ashes cricket"
+   ],
+   "category": "sports",
+   "follows": [
+    "the ashes",
+    "ipl",
+    "world cup cricket",
+    "england cricket",
+    "india cricket",
+    "australia cricket",
+    "virat kohli",
+    "joe root",
+    "harry brook",
+    "pat cummins",
+    "jasprit bumrah"
+   ],
+   "group": "sports",
+   "id": "cricket",
+   "label": "Cricket",
+   "regions": [
+    "global",
+    "uk",
+    "asia"
+   ]
+  },
+  {
+   "aliases": [
+    "rugby union",
+    "rugby league",
+    "six nations",
+    "rugby world cup",
+    "test rugby"
+   ],
+   "category": "sports",
+   "follows": [
+    "six nations",
+    "rugby world cup",
+    "all blacks",
+    "springboks",
+    "england rugby",
+    "ireland rugby",
+    "prem rugby",
+    "super rugby",
+    "antoine dupont"
+   ],
+   "group": "sports",
+   "id": "rugby",
+   "label": "Rugby",
+   "regions": [
+    "global",
+    "uk"
+   ]
+  },
+  {
+   "aliases": [
+    "pro cycling",
+    "road cycling",
+    "bike racing",
+    "grand tours",
+    "cyclocross"
+   ],
+   "category": "sports",
+   "follows": [
+    "tour de france",
+    "giro d'italia",
+    "vuelta",
+    "tadej pogacar",
+    "jonas vingegaard",
+    "remco evenepoel",
+    "mathieu van der poel",
+    "wout van aert",
+    "uci world championships"
+   ],
+   "group": "sports",
+   "id": "cycling",
+   "label": "Cycling",
+   "regions": [
+    "global"
+   ],
+   "followForms": {
+    "giro d'italia": [
+     "giro",
+     "giro d italia"
+    ]
+   }
+  },
+  {
+   "aliases": [
+    "ncaa",
+    "college football",
+    "college basketball",
+    "cfb",
+    "march madness",
+    "cfp"
+   ],
+   "category": "sports",
+   "follows": [
+    "college football playoff",
+    "march madness",
+    "heisman",
+    "sec",
+    "big ten",
+    "ohio state",
+    "texas longhorns",
+    "alabama",
+    "georgia bulldogs",
+    "duke",
+    "uconn"
+   ],
+   "group": "sports",
+   "id": "college-sports",
+   "label": "College sports",
+   "regions": [
+    "us"
+   ],
+   "everydayFollows": [
+    "sec",
+    "duke",
+    "alabama"
+   ]
+  },
+  {
+   "aliases": [
+    "e-sports",
+    "competitive gaming",
+    "pro gaming",
+    "esport"
+   ],
+   "category": "gaming",
+   "follows": [
+    "league of legends worlds",
+    "valorant champions",
+    "counter-strike major",
+    "cs2",
+    "dota 2",
+    "the international",
+    "t1",
+    "faker",
+    "fnatic",
+    "team liquid",
+    "navi"
+   ],
+   "group": "sports",
+   "id": "esports",
+   "label": "Esports",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "food",
+    "cooking",
+    "recipes",
+    "restaurants",
+    "drinks",
+    "wine",
+    "cocktails"
+   ],
+   "category": "food",
+   "follows": [
+    "michelin",
+    "james beard",
+    "world's 50 best",
+    "gordon ramsay",
+    "jose andres",
+    "nigella lawson",
+    "yotam ottolenghi"
+   ],
+   "group": "life",
+   "id": "food-drink",
+   "label": "Food & drink",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "bake",
+    "bread baking",
+    "sourdough",
+    "pastry",
+    "cakes",
+    "desserts"
+   ],
+   "category": "food",
+   "follows": [
+    "great british bake off",
+    "paul hollywood",
+    "king arthur",
+    "sourdough",
+    "croissant",
+    "panettone"
+   ],
+   "group": "life",
+   "id": "baking",
+   "label": "Baking",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "diy",
+    "home improvement",
+    "home renovation",
+    "interiors",
+    "home decor",
+    "woodworking"
+   ],
+   "category": "life",
+   "follows": [
+    "ikea",
+    "home depot",
+    "lowe's",
+    "this old house",
+    "3d printing",
+    "smart home"
+   ],
+   "group": "life",
+   "id": "home-diy",
+   "label": "Home & DIY",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "hiking",
+    "camping",
+    "backpacking",
+    "climbing",
+    "mountaineering",
+    "trail running"
+   ],
+   "category": "life",
+   "follows": [
+    "appalachian trail",
+    "pacific crest trail",
+    "everest",
+    "national parks",
+    "patagonia",
+    "rei",
+    "alex honnold"
+   ],
+   "group": "life",
+   "id": "outdoors",
+   "label": "Outdoors",
+   "regions": [
+    "global"
+   ],
+   "followForms": {
+    "everest": [
+     "mount everest"
+    ]
+   },
+   "everydayFollows": [
+    "everest"
+   ]
+  },
+  {
+   "aliases": [
+    "parents",
+    "family",
+    "kids",
+    "babies",
+    "raising children",
+    "motherhood",
+    "fatherhood"
+   ],
+   "category": "life",
+   "follows": [
+    "pregnancy",
+    "toddlers",
+    "screen time",
+    "childcare",
+    "baby formula"
+   ],
+   "group": "life",
+   "id": "parenting",
+   "label": "Parenting",
+   "regions": [
+    "global"
+   ]
+  },
+  {
+   "aliases": [
+    "dogs",
+    "cats",
+    "pet care",
+    "puppies",
+    "kittens",
+    "animals"
+   ],
+   "category": "life",
+   "follows": [
+    "akc",
+    "westminster dog show",
+    "crufts",
+    "rspca",
+    "aspca",
+    "golden retriever",
+    "french bulldog",
+    "pet food recall"
+   ],
+   "group": "life",
+   "id": "pets",
+   "label": "Pets",
+   "regions": [
+    "global"
+   ]
+  }
+ ],
+ "version": 5
+}
