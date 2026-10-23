@@ -205,6 +205,19 @@ struct QuadrantMask: Shape {
 }
 
 /// Settings › General › Icon: "Auto" (the master) plus the master and the ten sheet icons.
+/// One icon drawn small: the 1024-point art scaled to `size`, as the icon picker shows it.
+struct AppIconThumbnail: View {
+    let style: AppIconStyle
+    let size: CGFloat
+
+    var body: some View {
+        AppIconStyleArt(style: style)
+            .scaleEffect(size / 1024)   // about the centre: the 1024-point art is centred in the frame, so a corner anchor scales it out of view
+            .frame(width: size, height: size)
+            .clipped()
+    }
+}
+
 struct AppIconPicker: View {
     @AppStorage(AppIconStyle.defaultsKey) private var stored: String = AppIconStyle.autoValue
     private let columns = [GridItem(.adaptive(minimum: 84), spacing: 10)]
@@ -229,10 +242,7 @@ struct AppIconPicker: View {
             stored = raw
         } label: {
             VStack(spacing: 5) {
-                AppIconStyleArt(style: style)
-                    .scaleEffect(48 / 1024, anchor: .topLeading)
-                    .frame(width: 48, height: 48)
-                    .clipped()
+                AppIconThumbnail(style: style, size: 48)
                 Text(name).font(.system(size: 10, weight: selected ? .bold : .regular)).lineLimit(1)
             }
             .padding(6)
