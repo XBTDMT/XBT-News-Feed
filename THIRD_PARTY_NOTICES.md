@@ -1,6 +1,6 @@
 # Third-party notices
 
-News Feed (PulseFeed) is MIT-licensed (see [LICENSE](LICENSE)). It bundles or links the third-party work below. Copyright lines and licence names are taken from the bundled files or from each package's own licence file in a local SwiftPM checkout (`PulseFeed/.build/checkouts/`, read on 2026-09-07 at the versions `PulseFeed/Package.resolved` pins). Where no licence file could be read locally the licence is stated as the project publishes it and marked **not verified locally**.
+News Feed (PulseFeed) is licensed under the GNU General Public License, version 3 or later (see [LICENSE](LICENSE)). It bundles or links the third-party work below. Copyright lines and licence names are taken from the bundled files or from each package's own licence file in a local SwiftPM checkout (`PulseFeed/.build/checkouts/`, read on 2026-09-07 at the versions `PulseFeed/Package.resolved` pins). Where no licence file could be read locally the licence is stated as the project publishes it and marked **not verified locally**.
 
 ## Bundled in this repository
 

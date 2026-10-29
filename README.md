@@ -12,7 +12,7 @@ an hour and 10 a day; everything else waits for one recap every 15 minutes (or w
 Mac with Apple Intelligence, Apple's on-device model writes the summaries, the recap and a daily brief, and votes on
 what counts as breaking.
 
-Free, MIT, no account, no telemetry. It is one person's project, built for and tested on one Mac: read *What it
+Free, GPL-3.0, no account, no telemetry. It is one person's project, built for and tested on one Mac: read *What it
 is not* before you build it.
 
 ## What it is not
@@ -192,5 +192,11 @@ The project's internal name is PulseFeed: the Swift package, the binary, the dat
 
 ## License
 
-MIT, see [LICENSE](LICENSE). Bundled and linked third-party work (Readability.js, the Manrope font, the Swift
-packages) and the data services the app calls are listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+Copyright (C) 2026 XBTDMT. News Feed is free software: you can redistribute it and/or modify it under the terms of
+the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at
+your option) any later version; see [LICENSE](LICENSE). It is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Copies taken before 2026-10-28 were released under the MIT licence and stay under it.
+
+Bundled and linked third-party work (Readability.js, the Manrope font, the Swift packages) and the data services the
+app calls are listed in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
